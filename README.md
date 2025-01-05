@@ -95,13 +95,16 @@ Key columns in the dataset include:
 ## Questions Addressed
 
 1. What are the differences in average speed in 50km and 50mi races?
+   
    ![img](https://github.com/SriSurya-DA/Marathon_Analysis_Two_Centuries/blob/main/Avg%20seed%20for%2050mils.png)
    ![img](https://github.com/SriSurya-DA/Marathon_Analysis_Two_Centuries/blob/main/Avg%20speed%20for%2050KM.png)
    
 2. Which age groups perform best in 50mi races with significant participation in both(50KM and 50mils)?
+   
    ![img](https://github.com/SriSurya-DA/Marathon_Analysis_Two_Centuries/blob/main/avgspeed%20for%20male%26female%20in%20both%20sets.png)
 
 3. How does average speed vary by age and gender?
+   
    ![img](https://github.com/SriSurya-DA/Marathon_Analysis_Two_Centuries/blob/main/avg%20speed%20Vs%20gender.png)
 
 
