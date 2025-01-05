@@ -76,22 +76,6 @@ Key columns in the dataset include:
 
 ---
 
-## How to Use
-
-1. **Clone the Repository**:
-   ```bash
-   git clone <repository-link>
-   ```
-2. **Install Dependencies**:
-   - Python libraries: Pandas, Seaborn.
-   ```bash
-   pip install pandas seaborn
-   ```
-3. **Run the Analysis**:
-   - Open and execute the provided Python script in a Jupyter Notebook or your preferred IDE.
-
----
-
 ## Questions Addressed
 
 1. What are the differences in average speed in 50km and 50mi races?
